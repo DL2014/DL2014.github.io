@@ -1,0 +1,8 @@
+title: Dl2014.GitHub.io
+description: 这是我的blog哦
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
